@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfDiscipline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discipline>
+    <lecturer>
+      <name>Ржеутская</name>
+      <department>Кафедра информационных систем и технологий</department>
+      <room>154-4</room>
+    </lecturer>
+    <discipline>ОЗИ</discipline>
+    <sem>1;</sem>
+    <course>3</course>
+    <speciality>ПОИТ;ИСИТ;ПОИБМС;</speciality>
+    <lections>10</lections>
+    <labs>16</labs>
+    <testing>Зачет</testing>
+  </Discipline>
+  <Discipline>
+    <lecturer>
+      <name>Пацей</name>
+      <department>Кафедра программной инженерии</department>
+      <room>102-1</room>
+    </lecturer>
+    <discipline>ООТП</discipline>
+    <sem>1;2;</sem>
+    <course>2</course>
+    <speciality>ПОИТ;ИСИТ;ПОИБМС;</speciality>
+    <lections>16</lections>
+    <labs>16</labs>
+    <testing>Экзамен</testing>
+  </Discipline>
+  <Discipline>
+    <lecturer>
+      <name>Пацей</name>
+      <department>Кафедра программной инженерии</department>
+      <room>408-1</room>
+    </lecturer>
+    <discipline>СТП в Internet</discipline>
+    <sem>1;</sem>
+    <course>2</course>
+    <speciality>ПОИТ;</speciality>
+    <lections>18</lections>
+    <labs>16</labs>
+    <testing>Экзамен</testing>
+  </Discipline>
+  <Discipline>
+    <lecturer>
+      <name>Жиляк</name>
+      <department>Кафедра информационных систем и технологий</department>
+      <room>305-4</room>
+    </lecturer>
+    <discipline>Web</discipline>
+    <sem>1;</sem>
+    <course>3</course>
+    <speciality>ПОИТ;</speciality>
+    <lections>18</lections>
+    <labs>16</labs>
+    <testing>Зачет</testing>
+  </Discipline>
+  <Discipline>
+    <lecturer>
+      <name>Блинова</name>
+      <department>Кафедра информационных систем и технологий</department>
+      <room>100-3</room>
+    </lecturer>
+    <discipline>БД</discipline>
+    <sem>2;</sem>
+    <course>2</course>
+    <speciality>ПОИТ;ИСИТ;</speciality>
+    <lections>18</lections>
+    <labs>18</labs>
+    <testing>Зачет</testing>
+  </Discipline>
+</ArrayOfDiscipline>
