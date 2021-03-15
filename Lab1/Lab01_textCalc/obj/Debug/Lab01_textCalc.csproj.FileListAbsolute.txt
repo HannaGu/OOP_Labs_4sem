@@ -1,0 +1,10 @@
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\bin\Debug\Lab01_textCalc.exe.config
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\bin\Debug\Lab01_textCalc.exe
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\bin\Debug\Lab01_textCalc.pdb
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.Form1.resources
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.Properties.Resources.resources
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.csproj.GenerateResource.cache
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.exe
+C:\Users\Lenovo PC\Desktop\ООТП_2\Lab01_textCalc\Lab01_textCalc\obj\Debug\Lab01_textCalc.pdb
