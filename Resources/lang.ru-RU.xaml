@@ -1,0 +1,32 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="m_Home">На главную</v:String>
+
+    <v:String x:Key="m_Add">Добавить элемент</v:String>
+    <v:String x:Key="m_EnterId">Введите id</v:String>
+    <v:String x:Key="m_EnterName">Введите наименование</v:String>
+    <v:String x:Key="m_EnterPrice">Введите цену</v:String>
+    <v:String x:Key="m_EnterQuantity">Введите количество</v:String>
+    <v:String x:Key="m_EnterColor">Введите цвет</v:String>
+    <v:String x:Key="m_EnterDescript">Введите описание</v:String>
+    <v:String x:Key="m_EnterImgPath">Введите ссылку на изображение</v:String>
+
+    <v:String x:Key="m_Delete">Удалить элемент</v:String>
+    <v:String x:Key="m_Enteridies">Введите один или несколько id</v:String>
+
+    <v:String x:Key="m_Sort">Сортировать</v:String>
+    <v:String x:Key="m_SortById">По id</v:String>
+    <v:String x:Key="m_SortByName">По названию</v:String>
+    <v:String x:Key="m_SortByPrice">По цене</v:String>
+
+    <v:String x:Key="m_Search">Поиск</v:String>
+    <v:String x:Key="m_Update">Изменить</v:String>
+    <v:String x:Key="m_Themes">Темы</v:String>
+    <v:String x:Key="m_Languages">Языки</v:String>
+    <v:String x:Key="m_Settings">Настройки</v:String>
+
+
+    <v:String x:Key="m_Quantity">Количество: </v:String>
+    <v:String x:Key="m_Color">Цвет:</v:String>
+   </ResourceDictionary>
