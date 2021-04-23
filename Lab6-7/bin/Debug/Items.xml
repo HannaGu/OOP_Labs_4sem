@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>1</Id>
+    <Name>Product 1</Name>
+    <Description>Ted Baker Delylas serendipity satin trainer in white</Description>
+    <ImagePath>/images/1.jpg</ImagePath>
+    <Quantity>78</Quantity>
+    <Price>103.01</Price>
+    <Color> White</Color>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Product 2</Name>
+    <Description>Adidas Originals Ozweego trainers in pale blue</Description>
+    <ImagePath>/images/2.jpg</ImagePath>
+    <Quantity>74</Quantity>
+    <Price>98</Price>
+    <Color>Black , White</Color>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Product 3</Name>
+    <Description>River Island side plate trainer in bright pink</Description>
+    <ImagePath>/images/3.jpg</ImagePath>
+    <Quantity>108</Quantity>
+    <Price>63.01</Price>
+    <Color>Black, White</Color>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>Product 4</Name>
+    <Description>Steve Madden Match chunky trainers in light taupe</Description>
+    <ImagePath>/images/4.jpg</ImagePath>
+    <Quantity>15</Quantity>
+    <Price>205.46</Price>
+    <Color>Black</Color>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Product 5</Name>
+    <Description>RAID Corneo trainers in white</Description>
+    <ImagePath>/images/5.jpg</ImagePath>
+    <Quantity>8</Quantity>
+    <Price>78.05</Price>
+    <Color>Pink</Color>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Name>Product 6</Name>
+    <Description>Ted Baker Allyva retro glitter strip scallop trainer in white</Description>
+    <ImagePath>/images/6.jpg</ImagePath>
+    <Quantity>52</Quantity>
+    <Price>100.8</Price>
+    <Color>Black, White</Color>
+  </Product>
+  <Product>
+    <Id>7</Id>
+    <Name>Product 7</Name>
+    <Description>Nike Daybreak trainers in off white</Description>
+    <ImagePath>/images/7.jpg</ImagePath>
+    <Quantity>23</Quantity>
+    <Price>16.41</Price>
+    <Color>Pink. White</Color>
+  </Product>
+  <Product>
+    <Id>8</Id>
+    <Name>Product 8</Name>
+    <Description>Buffalo</Description>
+    <ImagePath>/images/8.jpg</ImagePath>
+    <Quantity>100</Quantity>
+    <Price>100</Price>
+    <Color>Yellow</Color>
+  </Product>
+</ArrayOfProduct>
